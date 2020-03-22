@@ -22,7 +22,7 @@ public class MqConfig {
     /**
      * 启动测试之前请替换如下 XXX 为您的配置
      */
-    public static final String TOPIC = "topic";
+    public static final String TOPIC = "bamen-public-topic-join";
     public static final String GROUP_ID = "GID-xxx";
     public static final String ORDER_TOPIC = "XXX";
     public static final String ORDER_GROUP_ID = "XXX";
